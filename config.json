@@ -6,7 +6,7 @@
         "twitterConsumerSecret": ""
     },
     "tweetTo": "",
-    "internetSpeed": "50",
+    "internetSpeed": "15",
     "tweetThresholds": {
         "2.5": [
             "Hey {tweetTo} I'm paying for {internetSpeed}Mb/s but getting only $
